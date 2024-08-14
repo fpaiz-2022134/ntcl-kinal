@@ -1,7 +1,8 @@
-## Receta para pizza
+# Receta de Pizza Casera
 
-## Para la masa:
+## Ingredientes
 
+### Para la masa:
 - 2 tazas de harina de trigo
 - 1 cucharadita de sal
 - 1 cucharadita de azúcar
@@ -15,28 +16,41 @@
 - 1 diente de ajo, picado
 - 1 cucharadita de orégano
 - 1 cucharadita de albahaca
-- Sal y pimienta al gusto
+- Sal al gusto
+- Pimienta al gusto
 - 1 cucharada de aceite de oliva
 
-## Para la cobertura:
-
-- 200 g de queso mozzarella rallado
-- 100 g de jamón en rodajas
-- 100 g de champiñones en rodajas
-- 1 pimiento en rodajas
-- Aceitunas negras al gusto
-- Hojas frescas de albahaca (opcional)
+### Para la cobertura:
+- 200g de queso mozzarella rallado
+- 100g de jamón, en rodajas
+- 100g de champiñones, en rodajas
+- 1 pimiento, en rodajas
+- Aceitunas negras, al gusto
+- Hojas de albahaca fresca (opcional)
 
 ## Instrucciones
 
-1. **Preparar la masa:**  
-   En un bol grande, combina la harina con la sal y el azúcar. Disuelve la levadura en el agua tibia, agrega el aceite de oliva y vierte esta mezcla en el bol con la harina. Mezcla hasta obtener una masa suave y luego amasa durante unos 10 minutos hasta que sea elástica. Coloca la masa en un recipiente ligeramente engrasado, cúbrela con un paño húmedo y deja que repose en un lugar cálido durante aproximadamente 1 hora, o hasta que duplique su tamaño.
+### 1. Preparar la masa
+1. En un bol grande, mezcla la harina, la sal y el azúcar.
+2. Disuelve la levadura en el agua tibia y añade el aceite de oliva.
+3. Vierte la mezcla de levadura en el bol con la harina y mezcla hasta obtener una masa suave.
+4. Amasa durante unos 10 minutos hasta que la masa esté elástica.
+5. Coloca la masa en un bol ligeramente engrasado, cúbrela con un paño húmedo y déjala reposar en un lugar cálido durante 1 hora, o hasta que doble su tamaño.
 
-2. **Preparar la salsa:**  
-   Calienta el aceite de oliva en una sartén a fuego medio, añade el ajo picado y sofríe hasta que esté dorado. Agrega los tomates triturados, el orégano, la albahaca, la sal y la pimienta, y cocina a fuego lento durante 15-20 minutos, removiendo de vez en cuando.
+### 2. Preparar la salsa
+1. En una sartén, calienta el aceite de oliva a fuego medio.
+2. Añade el ajo picado y sofríe hasta que esté dorado.
+3. Agrega los tomates triturados, el orégano, la albahaca, la sal y la pimienta.
+4. Cocina la salsa a fuego lento durante 15-20 minutos, removiendo ocasionalmente.
 
-3. **Montar la pizza:**  
-   Precalienta el horno a 220°C (428°F). Estira la masa sobre una superficie enharinada hasta lograr el tamaño y grosor deseados. Coloca la masa en una bandeja para hornear o sobre una piedra para pizza. Extiende la salsa de tomate de manera uniforme sobre la masa, luego añade el queso mozzarella rallado y distribuye las rodajas de jamón, champiñones, pimiento y aceitunas sobre la pizza. Hornea durante 12-15 minutos, o hasta que la masa esté dorada y el queso derretido y burbujeante.
+### 3. Montar la pizza
+1. Precalienta el horno a 220°C (428°F).
+2. Estira la masa sobre una superficie enharinada hasta obtener el tamaño y grosor deseados.
+3. Coloca la masa en una bandeja para hornear o en una piedra para pizza.
+4. Extiende la salsa de tomate sobre la masa de manera uniforme.
+5. Añade el queso mozzarella rallado y distribuye las rodajas de jamón, champiñones, pimiento y aceitunas sobre la pizza.
+6. Hornea la pizza en el horno precalentado durante 12-15 minutos, o hasta que la masa esté dorada y el queso derretido y burbujeante.
 
-4. **Servir:**  
-   Saca la pizza del horno y, si lo deseas, decora con hojas frescas de albahaca. Corta en porciones y sirve caliente.
+### 4. Servir
+1. Retira la pizza del horno y decora con hojas de albahaca fresca si lo deseas.
+2. Corta en porciones y sirve caliente.
