@@ -38,4 +38,3 @@
 6. **Servir:**
     - Retira la pizza del horno, deja enfriar un poco y corta en porciones.
     - ¡Disfruta tu pizza casera!
-
