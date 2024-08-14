@@ -10,7 +10,8 @@
 - 1 taza de agua tibia
 - 1 sobre de levadura seca
 
-### Para la salsa:
+## Para la salsa:
+
 - 1 lata de tomates triturados
 - 1 diente de ajo, picado
 - 1 cucharadita de orégano
